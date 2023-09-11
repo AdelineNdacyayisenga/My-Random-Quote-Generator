@@ -1,1 +1,1 @@
-Adeline's Random Quote Generator
+My first Techdegree Project: Random Quote Generator

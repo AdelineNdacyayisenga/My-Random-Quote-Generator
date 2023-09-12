@@ -77,7 +77,6 @@ function getRandomQuote () {
  * @returns html string with quote, source, citation, and year
 */
 
-
 function printQuote () {
   let randomQuoteObject = getRandomQuote(); //calls the getRandomQuote function
   let html = `
@@ -119,8 +118,7 @@ function changeBackGround () {
 }
 
 /**
- * Prints a new quote at regularly after 10 seconds and changes the background
- * color too
+ * Prints a new quote at regularly after 10 seconds and changes the background color too
  * Using the setInterval() method
  */
 

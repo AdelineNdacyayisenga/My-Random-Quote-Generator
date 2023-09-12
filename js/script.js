@@ -65,8 +65,6 @@ let quotes = [
  * @return the random quote object
 */
 
-
-
 function getRandomQuote () {
   let random = Math.floor(Math.random() * quotes.length);
   console.log(random);
